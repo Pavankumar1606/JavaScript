@@ -8,4 +8,4 @@
 ((name)=>{
     //Simple IIFE
     console.log(`DB CONNECTED TWO ${name}`);
-})('Pavan')
+})('Pavan');
