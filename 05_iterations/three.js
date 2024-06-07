@@ -37,6 +37,6 @@ const myObject={
 //     console.log(key, ':-', value);
 // }
 
-// for (const key in map) {
-//     console.log(key);
-// }
+for (const key in map) {
+    console.log(key);
+}
